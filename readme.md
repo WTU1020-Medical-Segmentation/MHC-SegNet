@@ -1,1 +1,1 @@
-MHC-SegNet: Mamba-Hadamard Collaboration Segmentation Network  for Multimodal MRI Brain Tumor coming soon
+# MHC-SegNet: Mamba-Hadamard Collaboration Segmentation Network  for Multimodal MRI Brain Tumor coming soon
